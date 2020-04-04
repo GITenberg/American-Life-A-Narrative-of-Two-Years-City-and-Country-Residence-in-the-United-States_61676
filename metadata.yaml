@@ -1,0 +1,26 @@
+_repo: American-Life-A-Narrative-of-Two-Years-City-and-Country-Residence-in-the-United-States_61676
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Felton, Mrs.
+    alias: Felton, Mrs. John
+    gutenberg_agent_id: '51556'
+    url: http://www.gutenberg.org/2009/agents/51556
+description: ''
+gutenberg_issued: '2020-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61676'
+  lccn: '16027451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F106'
+- !lcsh 'New York (N.Y.) -- Description and travel'
+- !lcsh 'New York (State) -- Description and travel'
+- GITenberg
+title: "American Life\r\nA Narrative of Two Years' City and Country Residence in the\
+  \ United States"
+url: http://www.gutenberg.org/ebooks/61676
